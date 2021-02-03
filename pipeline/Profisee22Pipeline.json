@@ -33,7 +33,7 @@
 						"requestMethod": "PATCH",
 						"writeBatchSize": 10000,
 						"additionalHeaders": {
-							"x-api-key": ""
+							"x-api-key": "b22211887d124683b3b3ba212dc383c4\n"
 						},
 						"httpCompressionType": "none"
 					},
@@ -73,11 +73,11 @@
 		"parameters": {
 			"FileName": {
 				"type": "string",
-				"defaultValue": "product.csv"
+				"defaultValue": "product2.csv"
 			},
 			"FileFolder": {
 				"type": "string",
-				"defaultValue": "profisee-input/product"
+				"defaultValue": "profisee-input/product2"
 			}
 		},
 		"annotations": [],
