@@ -33,7 +33,7 @@
 						"requestMethod": "PATCH",
 						"writeBatchSize": 10000,
 						"additionalHeaders": {
-							"x-api-key": "b22211887d124683b3b3ba212dc383c4\n"
+							"x-api-key": "b22211887d124683b3b3ba212dc383c4"
 						},
 						"httpCompressionType": "none"
 					},
